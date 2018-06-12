@@ -1,0 +1,6 @@
+E:\Project\Bot\HA-OS-BOT\HA-OS-BOT\bin\Release\HA-OS-BOT.exe.config
+E:\Project\Bot\HA-OS-BOT\HA-OS-BOT\bin\Release\HA-OS-BOT.exe
+E:\Project\Bot\HA-OS-BOT\HA-OS-BOT\bin\Release\HA-OS-BOT.pdb
+E:\Project\Bot\HA-OS-BOT\HA-OS-BOT\bin\Release\Microsoft.Speech.dll
+E:\Project\Bot\HA-OS-BOT\HA-OS-BOT\obj\Release\HA-OS-BOT.exe
+E:\Project\Bot\HA-OS-BOT\HA-OS-BOT\obj\Release\HA-OS-BOT.pdb

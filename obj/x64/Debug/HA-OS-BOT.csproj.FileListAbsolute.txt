@@ -1,0 +1,14 @@
+C:\Users\Zak\Desktop\HA-OS-BOT\HA-OS-BOT\bin\x64\Debug\HA-OS-BOT.exe.config
+C:\Users\Zak\Desktop\HA-OS-BOT\HA-OS-BOT\bin\x64\Debug\HA-OS-BOT.exe
+C:\Users\Zak\Desktop\HA-OS-BOT\HA-OS-BOT\bin\x64\Debug\HA-OS-BOT.pdb
+C:\Users\Zak\Desktop\HA-OS-BOT\HA-OS-BOT\bin\x64\Debug\Microsoft.Speech.dll
+C:\Users\Zak\Desktop\HA-OS-BOT\HA-OS-BOT\obj\x64\Debug\HA-OS-BOT.csprojResolveAssemblyReference.cache
+C:\Users\Zak\Desktop\HA-OS-BOT\HA-OS-BOT\obj\x64\Debug\HA-OS-BOT.exe
+C:\Users\Zak\Desktop\HA-OS-BOT\HA-OS-BOT\obj\x64\Debug\HA-OS-BOT.pdb
+C:\HA-OS-BOT\HA-OS-BOT\bin\x64\Debug\HA-OS-BOT.exe.config
+C:\HA-OS-BOT\HA-OS-BOT\bin\x64\Debug\HA-OS-BOT.exe
+C:\HA-OS-BOT\HA-OS-BOT\bin\x64\Debug\HA-OS-BOT.pdb
+C:\HA-OS-BOT\HA-OS-BOT\bin\x64\Debug\Microsoft.Speech.dll
+C:\HA-OS-BOT\HA-OS-BOT\obj\x64\Debug\HA-OS-BOT.csprojResolveAssemblyReference.cache
+C:\HA-OS-BOT\HA-OS-BOT\obj\x64\Debug\HA-OS-BOT.exe
+C:\HA-OS-BOT\HA-OS-BOT\obj\x64\Debug\HA-OS-BOT.pdb
